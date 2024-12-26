@@ -5,10 +5,11 @@
 #include "lwipopts.h"
 #include "ssi.h"
 #include "cgi.h"
+#include "networkfiles.h"
 
 // WIFI Credentials - take care if pushing to github!
-const char WIFI_SSID[] = "wifiname";
-const char WIFI_PASSWORD[] = "password";
+const char WIFI_SSID[] = WIFINAME;
+const char WIFI_PASSWORD[] = WIFIPASSWORD;
 
 //ip_addr_t *ip_address;
 
