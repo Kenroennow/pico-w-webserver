@@ -3,7 +3,7 @@
     <head> 
         <title>PicoW Webserver</title> 
     </head>
-    <body> <h1>PicoW Webserver Ovelse</h1>
+    <body> <h1>PicoW Webserver DEMO/h1>
         <br>
         <h2>This bit is SSI:</h2>
         <p>Voltage: <!--#volt--></p>
@@ -14,8 +14,9 @@
         <a href="/led.cgi?led=1"><button>LED ON</button></a>
         <a href="/led.cgi?led=0"><button>LED OFF</button></a>
         <br>
-        <h2>Ken ovelse til test</h2>
+        <h2>Demo only for test</h2>
         <br>
         <a href="/index.shtml">Refresh</a>
+        <br>
    </body>
 </html>
