@@ -3,7 +3,7 @@
     <head> 
         <title>PicoW Webserver</title> 
     </head>
-    <body> <h1>PicoW Webserver DEMO/h1>
+    <body> <h1>PicoW Webserver DEMO</h1>
         <br>
         <h2>This bit is SSI:</h2>
         <p>Voltage: <!--#volt--></p>
